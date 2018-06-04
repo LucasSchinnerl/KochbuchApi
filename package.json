@@ -1,0 +1,22 @@
+{
+  "name": "kochbuchapi",
+  "version": "1.0.0",
+  "description": "Kochbuch mit Zutaten und Zubereitung",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSchinnerl/KochbuchApi.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Lucas Schinnerl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSchinnerl/KochbuchApi/issues"
+  },
+  "homepage": "https://github.com/LucasSchinnerl/KochbuchApi#readme"
+}
